@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AnandDaksh
-- Explore and then consult me
+- 👋 Hi, I’m @AnanD
+- Just Explore.............
 
 <!---
 AnandDaksh/AnandDaksh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
